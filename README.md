@@ -1,2 +1,2 @@
 # AES-RC4
-Implementasi AES dan RC4 Di PHP
+Implementasi AES dan RC4 pada Text di PHP
