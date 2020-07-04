@@ -8,4 +8,4 @@ Implementation AES and RC4 for Text with PHP
 
 ----
 
-# WWW.RYFAN.NET
+# WWW.RYFAN.ID
